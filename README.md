@@ -16,7 +16,7 @@ Dynamic post rendering and reaction tracking.
 
 Login and Signup options for enhanced user interaction.
 
-Screenshot ![Uploading Screenshot (25).png…]()
+Screenshot ![Screenshot (25)](https://github.com/user-attachments/assets/c5a2cd16-be74-4fd6-a0f9-529a698ad820)
 
 
 
