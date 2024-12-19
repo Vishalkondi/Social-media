@@ -16,7 +16,8 @@ Dynamic post rendering and reaction tracking.
 
 Login and Signup options for enhanced user interaction.
 
-Screenshot
+Screenshot ![Uploading Screenshot (25).png…]()
+
 
 
 
@@ -112,7 +113,5 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
 
-If you have any questions or feedback, feel free to reach out at [your-email@example.com].
 
